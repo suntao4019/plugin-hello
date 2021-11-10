@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.suntao4019.pluginhello.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.suntao4019.pluginhello.MyBundle
 
 class MyApplicationService {
 
